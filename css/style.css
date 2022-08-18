@@ -1,4 +1,10 @@
+@import url(/css/skins/style-switcher.css);
+@import url(/css/skins/color-1.css);
 @import url(/css/components/global.css);
+@import url(/css/components/home.css);
+@import url(/css/components/about.css);
+@import url(/css/components/aside.css);
 @import url(/css/components/service.css);
 @import url(/css/components/portafolio.css);
 @import url(/css/components/contact.css);
+@import url(/css/components/media.css);
