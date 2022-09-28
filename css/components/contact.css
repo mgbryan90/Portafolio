@@ -19,6 +19,10 @@
   margin-bottom: 60px;
 }
 
+.contact .contact-info-item .icon {
+  display: inline-block;
+}
+
 .contact .contact-info-item .icon .fa {
   font-size: 25px;
   color: var(--skin-color);

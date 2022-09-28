@@ -73,13 +73,13 @@ ul {
   }
 }
 
-.hidden {
+/* .hidden {
   display: none !important;
-}
-
-/* .main-content {
-  padding-left: 270px;
 } */
+
+.main-content {
+  padding-left: 270px;
+}
 
 .padd-15{
   padding-left: 15px;
@@ -136,6 +136,7 @@ ul {
   flex-wrap: wrap;
   margin-left: -15px;
   margin-right: -15px;
+  position: relative;
 }
 
 .btn {
